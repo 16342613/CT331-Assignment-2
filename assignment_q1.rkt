@@ -22,5 +22,4 @@
 (part2 1 2 3)
 (part3 "Hello" 1 2 3 4)
 (part4 "World" 5 6 7 8)
-(part5 "!" 9 10 11 12)
 (append '("YEEEHAW") '(99) '((98 99 100)))
